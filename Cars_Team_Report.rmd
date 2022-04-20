@@ -1,9 +1,7 @@
 ---
 title: "USA Car Sales Project Written Report"
 subtitle: "DATA 603 Final Project"
-author: 
-    - Amanda Chan (10103197), Jessica Chau (10137185), Yongpeng Fu (10182778)
-    - Ryan Kasserra (10161346), Maya Schuller (10147617), Sallene Wong (10122532)
+author: Yong
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
 geometry: margin=3cm
 output: 
